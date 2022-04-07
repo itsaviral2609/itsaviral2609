@@ -1,8 +1,8 @@
 ### Hi Github Community👋
 I am **Aviral Singh** currently pursuing my bachelors from **NIT-J**. I am a self taught developer, tech enthusiast and **love to collaborate on open source projects to explore new ideas and learn different things from folks in the community!**- 📫 How to reach me: [Twitter-@itsaviral2609](https://twitter.com/itsaviral2609) | 
 [LinkedIn-@AviralSingh](https://www.linkedin.com/in/aviral-singh-a7ab30229/) | [instagram-@itsaviral2609](https://www.instagram.com/aviralsingh2609/). Feel free to connect :)
- - 🔭 I’m currently working on **Front-end development**
-- 🌱 I’m currently learning **DSA|JAVA**
+
+- 🌱 I’m currently learning **DSA|JAVA & DEVOPS**
 - 👯 I’m looking to collaborate on **projects related to above tech stacks!**
 - 😄 Pronouns: He/Him
 
